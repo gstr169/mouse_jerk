@@ -6,3 +6,6 @@ gen
 
 # Python files
 __pycache__
+
+# Poetry build
+dist

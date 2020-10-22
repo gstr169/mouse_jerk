@@ -4,6 +4,9 @@ version = "0.0.1"
 description = "Small&easy auto-clicker"
 authors = ["d.finko <dmit.finn@yandex.ru>"]
 repository = "https://github.com/gstr169/auto-clicker"
+packages = [
+    { include = "auto-clicker" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.9"
@@ -12,7 +15,7 @@ pynput = "^1.7.1"
 [tool.poetry.dev-dependencies]
 
 [tool.poetry.scripts]
-brain-games = "brain_games.scripts.brain_games:main"
+auto-clicker = "auto-clicker.script:main"
 
 [build-system]
 requires = ["poetry>=0.12"]
