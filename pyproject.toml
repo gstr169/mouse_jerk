@@ -1,14 +1,18 @@
 [tool.poetry]
 name = "auto-clicker"
 version = "0.0.1"
-description = ""
-authors = ["d.finko <d.finko@x5.ru>"]
+description = "Small&easy auto-clicker"
+authors = ["d.finko <dmit.finn@yandex.ru>"]
+repository = "https://github.com/gstr169/auto-clicker"
 
 [tool.poetry.dependencies]
 python = "^3.9"
 pynput = "^1.7.1"
 
 [tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+brain-games = "brain_games.scripts.brain_games:main"
 
 [build-system]
 requires = ["poetry>=0.12"]
