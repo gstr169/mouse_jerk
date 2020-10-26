@@ -6,6 +6,7 @@ gen
 
 # Python files
 __pycache__
+*.egg-info
 
 # Poetry build
 dist

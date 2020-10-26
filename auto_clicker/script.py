@@ -1,4 +1,4 @@
-from clicker import listen_and_count
+from auto_clicker.clicker import listen_and_count
 
 
 def main():
