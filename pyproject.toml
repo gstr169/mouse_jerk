@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "auto-clicker"
-version = "0.0.1"
+name = "gstr169_auto-clicker"
+version = "0.1.0"
 description = "Small&easy auto-clicker"
 authors = ["d.finko <dmit.finn@yandex.ru>"]
 repository = "https://github.com/gstr169/auto-clicker"
