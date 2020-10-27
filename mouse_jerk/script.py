@@ -1,4 +1,4 @@
-from auto_clicker.clicker import listen_and_count
+from mouse_jerk.clicker import listen_and_count
 
 
 def main():

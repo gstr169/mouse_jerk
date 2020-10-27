@@ -2,7 +2,7 @@ install:
 	poetry install
 
 lint:
-	poetry run flake8 auto_clicker
+	poetry run flake8 mouse_jerk
 
 selfcheck:
 	poetry check
