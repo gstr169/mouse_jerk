@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mouse_jerk"
-version = "0.4.0"
+version = "0.4.1"
 description = "Small app, that help your PC to not fall asleep."
 authors = ["d.finko <dmit.finn@yandex.ru>"]
 repository = "https://github.com/gstr169/mouse_jerk"
@@ -9,7 +9,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8.5"
 pynput = "^1.7.1"
 
 [tool.poetry.dev-dependencies]
