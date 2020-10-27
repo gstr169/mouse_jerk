@@ -113,9 +113,9 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
 version = "1.15.0"
 
 [metadata]
-content-hash = "e988c92286978b9ba9c5d3707b931b97ceeaec328a1bf3a7f2d0878f613a5ce6"
+content-hash = "b866486c2394f8204d0a59fe22b005b148fcf7cc4c85f052995653aed064dcf4"
 lock-version = "1.0"
-python-versions = "^3.9"
+python-versions = "^3.8.5"
 
 [metadata.files]
 evdev = [
