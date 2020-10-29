@@ -7,6 +7,10 @@ repository = "https://github.com/gstr169/mouse_jerk"
 packages = [
     { include = "mouse_jerk" },
 ]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console"
+]
 
 [tool.poetry.dependencies]
 python = "^3.8.5"

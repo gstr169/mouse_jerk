@@ -5,9 +5,9 @@ Installation:
 -------------
 
 
- python3 -m pip install mouse_jerk
+ python3 -m pip install mouse-jerk
 
 Help:
 -----
 
- mouse_jerk --help
+ mouse-jerk --help
